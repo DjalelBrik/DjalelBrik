@@ -7,13 +7,6 @@
 Building practical web and desktop applications with modern technologies.  
 Passionate about turning ideas into useful software, designing clean interfaces, and solving real-world problems through code.
 
-[![GitHub followers](https://img.shields.io/github/followers/DjalelBrik?style=flat&color=2563eb&label=Followers)](https://github.com/DjalelBrik)
-[![Profile views](https://komarev.com/ghpvc/?username=DjalelBrik&color=2563eb&style=flat)](https://github.com/DjalelBrik)
-
-[Portfolio]·
-[LinkedIn](https://linkedin.com/in/DJALELBRIK) ·
-[Email](email:djalelbrik@gmail.com)
-
 </div>
 
 ---
@@ -71,7 +64,7 @@ Passionate about turning ideas into useful software, designing clean interfaces,
   <tr>
     <td width="50%">
       <h3>🏥 Sihatik</h3>
-      <p>A healthcare platform concept designed to connect patients with doctors and make healthcare services more accessible.</p>
+      <p>A healthcare platform </p>
       <p><strong>Stack:</strong> Next.js · Drizzle ORM · Neon</p>
     </td>
     <td width="50%">
